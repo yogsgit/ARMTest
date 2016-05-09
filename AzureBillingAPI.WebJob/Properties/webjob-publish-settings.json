@@ -1,9 +1,9 @@
 ﻿{
   "$schema": "http://schemastore.org/schemas/json/webjob-publish-settings.json",
-  "webJobName": "AzureBillingAPIWebJob",
-  "startTime": "2016-05-05T00:00:00+05:30",
-  "endTime": null,
-  "jobRecurrenceFrequency": "Minute",
+  "webJobName": "AzureBillingWebJob",
+  "startTime": "2016-05-09T00:00:00+00:00",
+  "endTime": "2016-05-16T00:00:00+00:00",
+  "jobRecurrenceFrequency": "Day",
   "interval": 1,
   "runMode": "Scheduled"
 }
